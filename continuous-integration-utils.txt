@@ -1,0 +1,4 @@
+Buildbot    -> https://buildbot.net/
+Bamboo      -> https://www.atlassian.com/software/bamboo
+Travis CI   -> https://travis-ci.org/
+Apache Gump -> https://gump.apache.org/
